@@ -1,1 +1,1 @@
-# journey-genius
+# Smart To-Do List
